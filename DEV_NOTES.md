@@ -14,3 +14,8 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-04-08
 - Investigated performance bottleneck, noted findings
+
+## 2026-04-22
+- Bumped patch version
+- Noted known limitation in docs
+- Added basic retry logic for network requests
